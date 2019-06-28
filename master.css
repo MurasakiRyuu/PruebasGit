@@ -1,0 +1,31 @@
+body{
+	background: green;
+
+}
+
+h1{
+	color:blue;
+}
+
+p{
+	font-size: 20px;
+	background: gray;
+}
+
+h3{
+	color: red;
+}
+
+.Cabecera3	{
+	color: purple;
+}
+
+#Cabecera4 {
+	color: yellow;
+}
+
+input {
+	display: block;
+	margin-left: 10px;
+	marker-top: 20px;
+}
